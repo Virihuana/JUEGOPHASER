@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    version     = "1.0.0" >
+
+
+  <name>Juego políticos</name>
+
+  <description>
+      Juego de laberinto
+  </description>
+
+  <author href="" email="angelesviridiana@hotmail.com">
+    Viri
+  </author>
+
+  <!--<preference name="orientation" value="portrait" />-->
+
+  <platform name="ios">
+   <!-- Una preferencia exclusiva para ios -->
+  </platform>
+
+  <platform name="android">
+     <!-- Una preferencia exclusiva para android -->
+  </platform>
+
+  <platform name="winphone">
+   <!-- Una preferencia exclusiva para winphone -->
+  </platform>
+  <access origin="*" onlyInBrowser="false"/>
+  <preference name="Fullscreen" value="true"/> 
+  <icon src="imagenes/laber.png" width="32" height="32"/>
+
+</widget>

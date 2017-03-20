@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16.000001 16"
+   id="svg38737"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="vueltader.svg">
+  <defs
+     id="defs38739">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13470">
+      <path
+         d="m 0,0 873,0 0,288.75 -873,0 L 0,0 Z"
+         id="path13472"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13476">
+      <path
+         d="m 0,0 873,0 0,288.75 -873,0 L 0,0 Z"
+         id="path13478"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13482">
+      <path
+         d="m 297,9 277.90138,0 0,251.10054 -277.90138,0 L 297,9 Z"
+         id="path13484"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13488">
+      <path
+         d="m 297,70.180848 5.32893,0 0,1.195718 -5.32893,0 0,-1.195718 z"
+         id="path13490"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask13502">
+      <image
+         width="1"
+         height="1"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAADCAAAAAB6qEoZAAAAAXNCSVQI5gpbmQAAABZJREFUCJljNnCS+/H7DwODLSsDMgAASGQDxbINSsgAAAAASUVORK5CYII="
+         id="image13504" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="11.526789"
+     inkscape:cy="6.1358306"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata38742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(236.27086,-512.91774)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#060000;stroke-width:0.0739286;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4595"
+       width="16.454643"
+       height="16.276072"
+       x="-236.46246"
+       y="513.01184"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.01443113;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4595-3"
+       width="1.3355702"
+       height="7.6409516"
+       x="-228.79521"
+       y="521.82141"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.01551538;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4595-3-3"
+       width="1.3344861"
+       height="8.839427"
+       x="520.48273"
+       y="219.94154"
+       ry="0"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+</svg>
